@@ -1,0 +1,21 @@
+Language,Purchase Price,Credit Card Expiry Month,Credit Card Provider,Email,Email Provider,IsHighPurchase
+English,52.0,12,Voyager,user1@gmail.com,gmail.com,True
+Spanish,51.8,6,Discover,user2@hotmail.com,hotmail.com,True
+English,51.5,1,VISA 13 digit,user3@yahoo.com,yahoo.com,True
+French,51.2,9,JCB 15 digit,user4@gmail.com,gmail.com,True
+Spanish,51.0,3,American Express,user5@hotmail.com,hotmail.com,False
+English,50.5,11,Maestro,user6@yahoo.com,yahoo.com,False
+French,50.3,5,Mastercard,user7@gmail.com,gmail.com,False
+English,50.0,7,VISA 16 digit,user8@hotmail.com,hotmail.com,False
+Spanish,49.8,2,JCB 16 digit,user9@yahoo.com,yahoo.com,False
+French,49.2,10,Diners Club/Carte Blanche,user10@gmail.com,gmail.com,False
+English,52.2,11,Voyager,user11@gmail.com,gmail.com,True
+Spanish,51.9,5,Discover,user12@hotmail.com,hotmail.com,True
+English,51.6,8,VISA 13 digit,user13@yahoo.com,yahoo.com,True
+French,51.3,2,JCB 15 digit,user14@gmail.com,gmail.com,True
+Spanish,51.1,4,American Express,user15@hotmail.com,hotmail.com,True
+English,50.6,1,Maestro,user16@yahoo.com,yahoo.com,False
+French,50.4,6,Mastercard,user17@gmail.com,gmail.com,False
+English,50.1,9,VISA 16 digit,user18@hotmail.com,hotmail.com,False
+Spanish,49.9,3,JCB 16 digit,user19@yahoo.com,yahoo.com,False
+French,49.3,12,Diners Club/Carte Blanche,user20@gmail.com,gmail.com,False
